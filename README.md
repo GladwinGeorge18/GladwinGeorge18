@@ -1,4 +1,4 @@
-![logo](https://github.com/GladwinGeorge18/GladwinGeorge18/blob/main/README.md) 
+![logo](https://github.com/GladwinGeorge18/GladwinGeorge18/blob/main/github%20profile%20banner.png)
 
 <h2 align="left">Hi 👋! My name is Gladwin and I'm a design and tech enthusiast</h2>
 
