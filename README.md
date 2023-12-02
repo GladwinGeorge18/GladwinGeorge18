@@ -1,3 +1,5 @@
+![logo](https://github.com/GladwinGeorge18/GladwinGeorge18/blob/main/README.md) 
+
 <h2 align="left">Hi 👋! My name is Gladwin and I'm a design and tech enthusiast</h2>
 
 ###
