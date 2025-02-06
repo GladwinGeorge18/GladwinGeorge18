@@ -1,14 +1,13 @@
 ![MasterHead](images/banner.png)
 
-<p style="text-align: center; font-size: 24px;"><b>Abdessamad EL ATLASSI | <i>Data Analyst</i></b></p>
+<h1 align="center"><i>Abdessamad EL ATLASSI</i></p>
 
+<p align="center">Data Analyst</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/elatlassiabdessamad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:elatlassiabdessamad@outlook.fr"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
-
----
 
 ### About Me
 - 📊 4+ years of Experience in **data visualization, business intelligence, and predictive analytics**.
